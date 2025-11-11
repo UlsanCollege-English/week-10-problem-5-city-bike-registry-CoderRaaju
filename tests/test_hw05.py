@@ -1,5 +1,4 @@
-
-
+ 
 from main import HashMap
 
 # ---- Normal tests (4) ----
